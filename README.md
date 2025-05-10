@@ -66,7 +66,7 @@
 ### 📫 ¿Cómo contactarme?
 
 - 📧 Correo: *yhayr@eduxam.net*
-- 🌐 Portafolio: *[(si tienes uno, colócalo aquí)](https://eduxam.net/)*
+- 🌐 Portafolio: *[EduXam Site](https://eduxam.net/)*
 - 💬 LinkedIn: *www.linkedin.com/in/yhayr*
 
 ---
