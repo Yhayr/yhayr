@@ -4,6 +4,10 @@
   👨‍🏫 Docente | 👨‍💻 Desarrollador | 🚀 Apasionado por la tecnología
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation">
+</p>
+
 ---
 
 ### 🧠 Sobre mí
@@ -13,6 +17,25 @@
 - 🛠️ Me gusta combinar teoría con práctica en proyectos educativos y tecnológicos.
 - 💻 Trabajo con tecnologías como **C++**, **Python**, **HTML/CSS**, **JavaScript**, **Bootstrap**, **TensorFlow** y **phpMyAdmin**.
 - 📚 Actualmente desarrollando proyectos que integran IA con aplicaciones web y móviles.
+
+---
+
+### 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| [Conversor IA - Celsius a Fahrenheit](https://github.com/Yhayr/conversor-ia) | Un modelo en Google Colab que utiliza TensorFlow para convertir temperaturas usando redes neuronales. | Python, TensorFlow |
+| [Gestión de estudiantes](https://github.com/Yhayr/gestion-estudiantes) *(ejemplo)* | Sistema CRUD con interfaz web para administrar datos de estudiantes. | PHP, MySQL, Bootstrap |
+| [Interfaz educativa con Bootstrap](https://github.com/Yhayr/interfaz-educativa) *(ejemplo)* | Plantilla adaptable para sistemas educativos usando Bootstrap 5. | HTML, CSS, JS, Bootstrap |
+
+---
+
+### 📜 Certificados y logros
+
+- ✅ Curso de TensorFlow en Google Colab *(2024)*
+- ✅ Certificación en Desarrollo Web con HTML, CSS y JavaScript *(2023)*
+- ✅ Curso de Introducción a la IA y Machine Learning *(2024)*
+- 🎓 Participación como expositor en jornadas tecnológicas académicas
 
 ---
 
@@ -42,9 +65,10 @@
 
 ### 📫 ¿Cómo contactarme?
 
-- 📧 Correo: *yhayr@eduxam.net*  
-- 🌐 Portafolio: *https://eduxam.net/*  
+- 📧 Correo: *yhayr@eduxam.net*
+- 🌐 Portafolio: *[(si tienes uno, colócalo aquí)](https://eduxam.net/)*
+- 💬 LinkedIn: *www.linkedin.com/in/yhayr*
 
 ---
 
-⭐ *Gracias por visitar mi perfil. ¡Siempre estoy abierto a colaborar o compartir ideas!*
+⭐ *Gracias por visitar mi perfil. ¡Siempre estoy dispuesto a colaborar, enseñar o aprender algo nuevo!*
