@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Yhayr</h1>
 
 <p align="center">
-  👨‍🏫 Docente | 👨‍💻 Desarrollador | 🚀 Apasionado por la tecnología
+  👨‍🏫 Docente | 👨‍💻 Desarrollador | 🚀 UX/UI
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ### 🧠 Sobre mí
 
 - 🎓 Docente en el área de informática y desarrollo de software.
-- 💡 Apasionado por enseñar y aplicar temas como estructuras de datos, inteligencia artificial y diseño de interfaces.
+- 💡 Enseñanza de temas como estructuras de datos, inteligencia artificial y diseño de interfaces.
 - 🛠️ Me gusta combinar teoría con práctica en proyectos educativos y tecnológicos.
 - 💻 Trabajo con tecnologías como **C++**, **Python**, **HTML/CSS**, **JavaScript**, **Bootstrap**, **TensorFlow** y **phpMyAdmin**.
 - 📚 Actualmente desarrollando proyectos que integran IA con aplicaciones web y móviles.
